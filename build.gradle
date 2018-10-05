@@ -20,7 +20,7 @@ apply plugin: 'application'
 apply plugin: 'io.spring.dependency-management'
 
 // Define the main class for the application
-mainClassName = 'App'
+mainClassName = 'com.github.vrcca.springboottraining.App'
 
 dependencies {
     compile 'org.springframework.boot:spring-boot-starter-web'
